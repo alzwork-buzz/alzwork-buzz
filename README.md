@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nisa *for short
+# 👋 Hi, i'm Nisa!
 
 I'm a passionate **Data Analyst** with a strong background in data exploration, visualization, and storytelling. I enjoy turning raw data into insights that drive decision-making.
 
@@ -6,10 +6,11 @@ I'm a passionate **Data Analyst** with a strong background in data exploration, 
 
 ## 🔧 Tech Stack & Tools
 
-- 📊 Data Analysis: **Python (pandas, numpy), SQL, Excel**
-- 📈 Visualization: **Matplotlib, Seaborn, Power BI, Tableau, Google Looker Studio**
-- 💾 Database: **MySQL**
-- 💻 Others: Git, Jupyter Notebook, Colab
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
