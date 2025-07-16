@@ -15,13 +15,13 @@ I'm a passionate **Data Analyst** with a strong background in data exploration, 
 
 ## 📁 Featured Projects
 
-### 📦 [E-Commerce Sales Analysis](https://github.com/rafialamsyah/ecommerce-sales-analysis)
+### 📦 [E-Commerce Sales Analysis](https://github.com/annisalz/ecommerce-sales-analysis)
 EDA and visualization of e-commerce transactions using Python. to be continue
 
-### 📦 [COVID-19 Dashboard (Tableau)](https://public.tableau.com/app/profile/rafialamsyah/viz/CovidDashboard)
+### 📦 [COVID-19 Dashboard (Tableau)](https://public.tableau.com/app/profile/annisalz/viz/CovidDashboard)
 Interactive dashboard analyzing COVID-19 trends globally. to be continue
 
-### 📦 [SQL Analysis on HR Data](https://github.com/rafialamsyah/hr-data-sql)
+### 📦 [SQL Analysis on HR Data](https://github.com/annisalz/hr-data-sql)
 Querying HR data to find employee trends and performance. to be continue
 
 ---
