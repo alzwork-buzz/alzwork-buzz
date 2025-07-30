@@ -16,8 +16,12 @@ I'm a passionate **Data Analyst** with a strong background in data exploration, 
 
 ## 📁 Featured Projects
 
-### 📦 [E-Commerce Sales Analysis](https://github.com/annisalz/ecommerce-sales-analysis)
-EDA and visualization of e-commerce transactions using Python. to be continue
+### 🚲 [BikeStore Sales Analysis](https://github.com/annisalz/ecommerce-sales-analysis)
+Analyzed 4,722 records from multiple SQL tables using joins. Created sales reports and dashboards with Excel Pivot Tables and Power BI to visualize trends and performance.
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📦 [COVID-19 Dashboard (Tableau)](https://public.tableau.com/app/profile/annisalz/viz/CovidDashboard)
 Interactive dashboard analyzing COVID-19 trends globally. to be continue
