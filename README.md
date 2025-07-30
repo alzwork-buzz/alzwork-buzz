@@ -16,7 +16,7 @@ I'm a passionate **Data Analyst** with a strong background in data exploration, 
 
 ## 📁 Featured Projects
 
-### 🚲 [BikeStore Sales Analysis](https://github.com/annisalz/ecommerce-sales-analysis)
+### 🚲 [BikeStore Sales Analysis](https://github.com/alzwork-buzz/BikeStoreSales_DA)
 Analyzed 4,722 records from multiple SQL tables using joins. Created sales reports and dashboards with Excel Pivot Tables and Power BI to visualize trends and performance.
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
